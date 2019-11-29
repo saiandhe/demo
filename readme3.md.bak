@@ -1,2 +1,6 @@
 #first title
-learn git and github from 0 to hero
+<<<<<<< HEAD
+learn git and github from 0 to hero after adding worst branch
+=======
+learn git and github for worst branch
+>>>>>>> worst-branch
